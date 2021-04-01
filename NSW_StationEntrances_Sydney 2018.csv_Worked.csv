@@ -1,0 +1,851 @@
+﻿EntranceType,ExitNumber,Average of Latitude,Average of Longitude,Mode,StationName,StreetName,StreetType
+Escalators,2,-33.76896727,150.9072963,Train,Blacktown,Jim Simpson,Lane
+Escalators,6,-33.88544474,151.206822,Train,Central,Chalmers,Street
+Escalators,3,-33.882672835,151.20655495,Train,Central,Eddy,Avenue
+Escalators,,-33.79673649,151.1813641,Train,Chatswood,Orchard,Road
+Escalators,,-33.79718558,151.1814287,Train,Chatswood,Post Office,Lane
+Escalators,,-33.79705047,151.1805363,Train,Chatswood,Railway,Street
+Escalators,,-33.861344075000005,151.210603525,Train,Circular Quay,Alfred,Street
+Escalators,,-33.93400343,151.1801133,Train,Domestic,Keith Smith,Avenue
+Escalators,,-33.90627864,151.2026934,Train,Green Square,O'Riordan,Street
+Escalators,,-33.96651714,151.1019021,Train,Hurstville,Forest,Road
+Escalators,,-33.93518102,151.166541,Train,International,Departure,Placeaza
+Escalators,,-33.78522361,151.1282249,Train,Macquarie Park,Lane Cove,Road
+Escalators,,-33.77731411,151.1182587,Train,Macquarie University,Herring,Road
+Escalators,,-33.92315812,151.1873628,Train,Mascot,Bourke,Street
+Escalators,,-33.875870475,151.209677,Train,Museum,Elizabeth,Street
+Escalators,,-33.87671276,151.2092181,Train,Museum,Liverpool,Street
+Escalators,,-33.79451462,151.1379238,Train,North Ryde,Delhi,Road
+Escalators,,-33.81757268,151.0045096,Train,Parramatta,Liverpool-Parramatta,T-way
+Lift,,-33.96987782,151.1144352,Train,Allawah,Railway,Pedestrain
+Lift,,-33.93677457,151.1468602,Train,Arncliffe,Firth,Street
+Lift,,-33.93696302,151.1474227,Train,Arncliffe,The Arcade,Others
+Lift,,-33.80875941,151.1847201,Train,Artarmon,Hampden,Road
+Lift,,-33.88789161,151.1257974,Train,Ashfield,Brown,Street
+Lift,,-33.88744211,151.1259581,Train,Ashfield,Station,Street
+Lift,,-33.91724884,151.0883372,Train,Belmore,Burwood,Road
+Lift,,-32.79947121,151.6581617,Train,Beresfield,Addison,Street
+Lift,,-33.94913026,151.0808291,Train,Beverly Hills,King Georges,Road
+Lift,3,-33.76775412,150.9079614,Train,Blacktown,First,Avenue
+Lift,4,-33.7678292,150.9071472,Train,Blacktown,Old Richmond,Road
+Lift,1,-33.76889928,150.9070828,Train,Blacktown,Patrick,Street
+Lift,,-33.74369934,150.6099627,Train,Blaxland,Wilson,Way
+Lift,,-34.478323915,150.4164856,Train,Bowral,Wingercarribee,Street
+Lift,,-34.33383241,150.9150006,Train,Bulli,Park,Road
+Lift,,-33.89464265,150.9391047,Train,Cabramatta,Broomfield,Street
+Lift,,-33.89459892,150.9388134,Train,Cabramatta,Railway,Pedestrain
+Lift,,-34.06339614,150.81452405,Train,Campbelltown,Hurley,Street
+Lift,,-32.94140925,151.6622554,Train,Cardiff,Mary,Street
+Lift,,-34.04162513,151.1219142,Train,Caringbah,Kingsway,Others
+Lift,,-33.96801021,151.1243905,Train,Carlton,Carlton,Pedestrain
+Lift,,-33.96842236,151.1245362,Train,Carlton,Railway,Pedestrain
+Lift,,-33.950270114999995,150.91190405,Train,Casula,Casula,Road
+Lift,6,-33.88541283,151.2068475,Train,Central,Chalmers,Street
+Lift,3,-33.88353624,151.2069711,Train,Central,Eddy,Avenue
+Lift,5,-33.88371032,151.2078995,Train,Central,Elizabeth,Street
+Lift,,-33.79673526,151.1811761,Train,Chatswood,Orchard,Road
+Lift,,-33.79717607,151.1813031,Train,Chatswood,Post Office,Lane
+Lift,,-33.79689881,151.1807121,Train,Chatswood,Railway,Street
+Lift,,-33.7979301,151.1806933,Train,Chatswood,Thomas,Lane
+Lift,,-33.79765173,151.1812637,Train,Chatswood,Thomas,Street
+Lift,,-33.75543909,151.0781092,Train,Cheltenham,Cheltenham,Road
+Lift,,-33.86135492,151.2107232,Train,Circular Quay,Alfred,Street
+Lift,,-33.84808986,151.0851995,Train,Concord West,King,Street
+Lift,,-33.84803171,151.0859019,Train,Concord West,Queen,Street
+Lift,,-33.933778045,151.18030885,Train,Domestic,Keith Smith,Avenue
+Lift,,-33.9047721,151.1389753,Train,Dulwich Grove Lr,New Canterbury,Road
+Lift,,-33.9106266,151.1405558,Train,Dulwich Hill Lr,Bedford,Crescent
+Lift,,-33.79017064,151.0825639,Train,Eastwood,Railway,Pedestrain
+Lift,,-33.79014905,151.0820022,Train,Eastwood,West,Pedestrain
+Lift,,-33.96930476,150.8588642,Train,Edmondson Park,Soliders,Pedestrain
+Lift,,-33.74565742,150.6712836,Train,Emu Plains,Mackellar,Street
+Lift,,-33.74582701,150.6713326,Train,Emu Plains,Old Bathurst,Road
+Lift,,-34.067575435,151.01461655,Train,Engadine,Princes,Highway
+Lift,,-33.77268631,151.0816862,Train,Epping,Beecroft,Road
+Lift,,-33.87264464,150.9568189,Train,Fairfield,Dale,Street
+Lift,,-33.87249718,150.956712,Train,Fairfield,The Crescent,Others
+Lift,,-33.97228674,150.8932557,Train,Glenfield,Railway,Pedestrain
+Lift,,-33.97183034,150.8931736,Train,Glenfield,Service Road,Others
+Lift,,-33.42348002,151.3419443,Train,Gosford,Burns,Crescent
+Lift,,-33.90621492,151.2025402,Train,Green Square,O'Riordan,Street
+Lift,,-33.85449232,150.984227,Train,Guildford,Military,Road
+Lift,,-33.85456824,150.9844866,Train,Guildford,Railway,Terrace
+Lift,,-34.03490791,151.0852082,Train,Gymea,Gymea Bay,Road
+Lift,,-34.17718912,150.9942468,Train,Helensburgh,Tunnel,Road
+Lift,,-33.96282915,150.9563519,Train,Holsworthy,The Boulevarde,Others
+Lift,,-33.96763205,151.1022885,Train,Hurstville,Ormonde,Pedestrain
+Lift,,-33.935203369999996,151.1664588,Train,International,Departure,Placeaza
+Lift,,-33.7122822,150.3119825,Train,Katoomba,Bathurst,Road
+Lift,,-33.87426901,151.2222047,Train,Kings Cross,Victoria,Street
+Lift,,-33.94048039,151.100874,Train,Kingsgrove,Kingsgrove,Road
+Lift,,-33.75842616,150.720233,Train,Kingswood,Great Western,Highway
+Lift,,-33.9627467,151.1326877,Train,Kogarah,Regent,Street
+Lift,,-33.96264352,151.1321917,Train,Kogarah,Station,Street
+Lift,,-33.91988075,151.0762517,Train,Lakemba,Railway,Pedestrain
+Lift,,-33.92010158,151.0763703,Train,Lakemba,The Boulevarde,Others
+Lift,,-33.87498002,151.1550356,Train,Leichhardt North Lr,James,Street
+Lift,,-33.95451545,150.8082463,Train,Leppingon,Rickard,Road
+Lift,,-34.05067487,150.8308056,Train,Leumeah,O'Sullivan,Road
+Lift,,-34.0504822,150.8305609,Train,Leumeah,Plough Inn,Road
+Lift,,-33.86346008,151.0447924,Train,Lidcombe,Church,Street
+Lift,,-33.86386787,151.0446069,Train,Lidcombe,Railway,Street
+Lift,,-33.92438493,150.9269976,Train,Liverpool,Biggs,Street
+Lift,,-34.07235537,150.79743325,Train,Macarthur,Menangle,Road
+Lift,,-33.785253565000005,151.12823805,Train,Macquarie Park,Lane Cove,Road
+Lift,,-33.77730194,151.1182823,Train,Macquarie University,Herring,Road
+Lift,,-33.74601717,150.9003098,Train,Marayong,Harvey,Road
+Lift,,-33.74602227,150.9000423,Train,Marayong,Railway,Pedestrain
+Lift,,-33.91380871,151.15316685,Train,Marrickville,Illawarra,Road
+Lift,4,-33.8677258,151.211419,Train,Martin Place,Phillip,Street
+Lift,,-33.92336325,151.1873396,Train,Mascot,Bourke,Street
+Lift,,-33.81562759,151.0899398,Train,Meadowbank,Bank,Street
+Lift,,-33.81566979,151.0902245,Train,Meadowbank,Constitution,Road
+Lift,,-33.83690608,150.9923757,Train,Merrylands,Railway,Terrace
+Lift,,-33.83679089,150.992228,Train,Merrylands,Terminal,Place
+Lift,,-32.76536099,151.6181329,Train,Metford,Mccubbin,Close
+Lift,,-34.02764472,150.8425642,Train,Minto,Minto,Road
+Lift,,-34.0274664,150.842237,Train,Minto,Somerset,Street
+Lift,,-33.10883807,151.4881562,Train,Morisset,Dora,Street
+Lift,,-33.10903664,151.4882907,Train,Morisset,Macquarie,Street
+Lift,,-33.97112283,151.0810841,Train,Mortdale,Coleborne,Avenue
+Lift,,-33.97104094,151.0808798,Train,Mortdale,Cook,Lane
+Lift,,-33.76977783,150.8201693,Train,Mount Druitt,Beames,Avenue
+Lift,,-33.76909975666667,150.8200622,Train,Mount Druitt,North,Pedestrain
+Lift,,-33.87659188,151.2097343,Train,Museum,Elizabeth,Street
+Lift,,-33.89794821,151.1788919,Train,Newtown,King,Street
+Lift,,-33.79455215,151.1379256,Train,North Ryde,Delhi,Road
+Lift,,-34.41208516,150.8913613,Train,North Wollongong,Porter,Street
+Lift,,-34.41211138,150.8915284,Train,North Wollongong,Station,Street
+Lift,,-33.980259,151.0787615,Train,Oatley,Mulga,Road
+Lift,,-33.98022837,151.0792926,Train,Oatley,Oatley,Pedestrain
+Lift,,-33.84639439,151.0692489,Train,Olympic Park,Murray Rose,Avenue
+Lift,,-33.81707893,151.0049168,Train,Parramatta,Darcy,Street
+Lift,,-33.817807,151.00531245,Train,Parramatta,Liverpool-Parramatta,T-way
+Lift,,-33.73795586,151.0726265,Train,Pennant Hills,Railway,Street
+Lift,,-33.73786579,151.0724987,Train,Pennant Hills,Yarrara,Road
+Lift,,-33.74985115,150.6965045,Train,Penrith,Combewood,Avenue
+Lift,,-33.75028162,150.6964333,Train,Penrith,Jane,Street
+Lift,,-33.96609707,151.0886682,Train,Penshurst,Bridge,Road
+Lift,,-34.17921166,150.6126647,Train,Picton,Station,Street
+Lift,,-33.72731055,150.886272,Train,Quakers Hill,Pearce,Road
+Lift,,-33.72743142,150.8860389,Train,Quakers Hill,Railway,Pedestrain
+Lift,,-33.95273626,151.0152327,Train,Revesby,Blamey,Street
+Lift,,-33.95235886,151.0153198,Train,Revesby,Marco,Avenue
+Lift,,-33.83064963,151.0872234,Train,Rhodes,Blaxland,Road
+Lift,,-33.83045691,151.0868768,Train,Rhodes,Walker,Street
+Lift,,-33.95248742,151.1368614,Train,Rockdale,Geeves,Lane
+Lift,,-33.70454498,150.8736108,Train,Schofields,Bridge,Street
+Lift,,-33.7044383,150.8740174,Train,Schofields,Railway,Terrace
+Lift,,-33.88516272,151.0118417,Train,Sefton,Helen,Street
+Lift,,-33.88549648,151.0117978,Train,Sefton,Wellington,Road
+Lift,,-33.77407161,150.9360893,Train,Seven Hills,Prospect,Highway
+Lift,,-33.77455756,150.9361722,Train,Seven Hills,The Hills,Crescent
+Lift,,-34.5912387,150.8447441,Train,Shellharbour,Piper,Drive
+Lift,,-33.870678,151.2104842,Train,St James,Elizabeth,Street
+Lift,,-33.822376989999995,151.19350775,Train,St Leonards,Herbert,Street
+Lift,,-33.82222391,151.1947607,Train,St Leonards,Sergeants,Lane
+Lift,,-33.76189765,150.7751589,Train,St Marys,Forrester,Road
+Lift,,-33.76235089,150.7750575,Train,St Marys,Station,Street
+Lift,,-33.87146835,151.0946037,Train,Strathfield,Everton,Road
+Lift,,-33.89053286,151.1389072,Train,Summer Hill,Carlton,Crescent
+Lift,,-33.89010644,151.1387528,Train,Summer Hill,Grosvenor,Crescent
+Lift,,-34.0315702,151.0574323,Train,Sutherland,East,Pedestrain
+Lift,,-33.91491191,151.1661011,Train,Sydenham,Gleeson,Avenue
+Lift,,-33.889736735,151.14514005,Train,Taverners Hill Lr,Parramatta,Road
+Lift,,-34.31799787,150.9192528,Train,Thirroul,Station,Street
+Lift,,-32.78356119,151.6399551,Train,Thornton,Karuah,Street
+Lift,2,-33.87389408,151.2070208,Train,Town Hall,George,Street
+Lift,,-33.91324659,150.9349959,Train,Warwick Farm,Remembrance,Avenue
+Lift,,-33.91340518,150.9352764,Train,Warwick Farm,Warwick,Street
+Lift,,-33.75920751,150.7574014,Train,Werrington,Railway,Street
+Lift,,-33.75903757,150.7574454,Train,Werrington,Victoria,Lane
+Lift,,-33.80747159,151.0904036,Train,West Ryde,Railway,Pedestrain
+Lift,,-33.92868435,151.1543587,Train,Wolli,Brodie Spark,Drive
+Lift,,-33.92884985,151.1538917,Train,Wolli,Discovery Point,Place
+Lift,,-34.426440885,150.88832725,Train,Wollongong,Crown,Street
+Lift,,-34.04765603,151.1435849,Train,Woolooware,Swan,Street
+Lift,,-34.04744884,151.1437013,Train,Woolooware,Swan,Street N
+Lift,,-33.48585711,151.3233847,Train,Woy Woy,Railway,Street
+Lift,1,-33.86570502,151.2061027,Train,Wynyard,Carrington,Street
+Lift,4,-33.86572968,151.2050799,Train,Wynyard,Clarence,Street
+Lift,,-33.86534132,151.203967,Train,Wynyard,Napoleon,Street
+Lift,,-33.2853325,151.4255494,Train,Wyong,Howarth,Street
+Lift,,-33.28524935,151.4252208,Train,Wyong,Pacific,Highway
+Path,,-32.933766445,151.7203441,Train,Adamstown,Park,Avenue
+Path,,-33.9020497,151.1380434,Train,Arlington Lr,Constitution,Road
+Path,,-33.9020453,151.1381593,Train,Arlington Lr,Grove,Street
+Path,,-33.68869132,151.1082656,Train,Asquith,Haldane,Street
+Path,,-34.3065205,150.9293511,Train,Austinmer,Gilchrist,Street
+Path,,-34.30650136,150.9289071,Train,Austinmer,Railway,Avenue
+Path,,-33.01291676,151.5421328,Train,Awaba,Adelaide,Street
+Path,,-33.9179202,151.03393625,Train,Bankstown,Bankstown City,Placeaza
+Path,,-34.29097858,150.5801756,Train,Bargo,Great Southern,Road
+Path,,-34.29104476,150.5800077,Train,Bargo,Railside,Avenue
+Path,,-33.74921627,151.0667339,Train,Beecroft,Sutherland,Road
+Path,,-33.749139265,151.0662812,Train,Beecroft,Wongala,Crescent
+Path,,-33.8719773,151.0328288,Train,Berala,Campbell,Street
+Path,,-33.87139384,151.0323272,Train,Berala,Woodburn,Road
+Path,,-34.78027342,150.6967235,Train,Berry,Station,Road
+Path,,-34.85374494,150.6097702,Train,Bomaderry,Meroo,Street
+Path,,-34.47763745,150.4167974,Train,Bowral,Kirkham,Road
+Path,,-34.47792483,150.4169743,Train,Bowral,Station,Street
+Path,,-34.33428666,150.9149143,Train,Bulli,Franklin,Avenue
+Path,,-34.33433961,150.9146887,Train,Bulli,Railway,Street
+Path,,-34.65604988,150.2995728,Train,Bundanoon,Church,Street
+Path,,-34.49418601,150.3981296,Train,Burradoo,Burradoo,Road
+Path,,-33.87718853,151.1038248,Train,Burwood,Burwood,Road
+Path,,-33.89510227,150.9386596,Train,Cabramatta,Railway,Pedestrain
+Path,,-34.06369952,150.8146228,Train,Campbelltown,Hurley,Street
+Path,,-33.9121163,151.1190137,Train,Canterbury,Canterbury,Road
+Path,,-33.879756279999995,151.2055352,Train,Capitol Square Lr,Hay,Street
+Path,,-32.9412794,151.6628198,Train,Cardiff,Main,Road
+Path,,-33.7821273,151.0468442,Train,Carlingford,James,Street
+Path,,-33.78252302,151.04696505,Train,Carlingford,Lloyds,Avenue
+Path,,-33.78304357,151.0463511,Train,Carlingford,Pennant Hills,Road
+Path,,-33.88431636,150.9605645,Train,Carramar,Carramar,Avenue
+Path,,-33.88476847,150.9607298,Train,Carramar,Sandal,Crescent
+Path,,-33.95036803,150.9117058,Train,Casula,Casula,Road
+Path,4,-33.882434925,151.20669435,Train,Central,Eddy,Avenue
+Path,7,-33.88398512,151.2042663,Train,Central,Lee,Street
+Path,1,-33.88236674,151.2058136,Train,Central,Pitt,Street
+Path,,-33.88368818,151.0004627,Train,Chester Hil,Chester Hill,Road
+Path,,-33.60848854,150.787844,Train,Clarendon,Racecource,Road
+Path,,-32.94287548,151.6238126,Train,Cockle Creek,Creek Reserve,Road
+Path,,-34.37549456,150.9051489,Train,Corrimal,Duff,Pedestrain
+Path,,-34.37567312,150.9048905,Train,Corrimal,Railway,Street
+Path,,-34.05597516666666,151.1515852,Train,Cronulla,Cronulla,Street
+Path,,-34.493458925,150.79138335,Train,Dapto,Bong Bong,Road
+Path,,-34.49307785,150.7918339,Train,Dapto,Staiton,Street
+Path,,-34.4923588,150.7922224,Train,Dapto,Station,Street
+Path,,-33.79951928,151.0867539,Train,Denistone,Gordon,Crescent
+Path,,-33.0838231,151.5010419,Train,Dora Creek,Main,Road
+Path,,-34.18326863,150.7105427,Train,Douglas Park,Camden,Road
+Path,,-33.80339752,151.032467,Train,Dundas,Kissing Point,Road
+Path,,-33.80402698,151.0331103,Train,Dundas,Station,Street
+Path,,-33.96201112,150.9847269,Train,East Hills,Thompson,Lane
+Path,,-33.79014802,151.0819726,Train,Eastwood,West,Pedestrain
+Path,,-33.87893677,151.236154,Train,Edgecliff,New South Head,Road
+Path,,-33.77254801,151.0822785,Train,Epping,Langston,Place
+Path,,-33.90005302,151.1855565,Train,Ersineville,Erskineville,Road
+Path,,-34.61337723,150.3173592,Train,Exeter,Bundanoon,Road
+Path,,-34.61346677,150.3177998,Train,Exeter,Ringwood,Road
+Path,,-33.87255271,150.957049,Train,Fairfield,Dale,Street
+Path,,-33.87228222,150.9568998,Train,Fairfield,The Crescent,Others
+Path,,-33.870616325,151.1919156,Train,Fish Market Lr,Miller,Street
+Path,,-33.42338314,151.3414013,Train,Gosford,Showground,Road
+Path,,-34.75812698,149.7192494,Train,Goulburn,Park,Road
+Path,,-34.75901982,149.7205882,Train,Goulburn,Sloane,Street
+Path,,-33.87954123,151.14732845,Train,Hawthorne Lr,Darley,Road
+Path,,-33.72367342,150.4539673,Train,Hazelbrook,Railway,Pedestrain
+Path,,-34.08780235,151.0082859,Train,Heathcote,Princes,Highway
+Path,,-34.08792484,151.0084291,Train,Heathcote,Wilson,Pedestrain
+Path,,-33.70347962,151.0980916,Train,Hornsby,Station,Street
+Path,,-33.91018981,151.1325419,Train,Hurlstone Park,Duntroon,Street
+Path,,-34.0158836,151.0647566,Train,Jannali,Railway,Crescent
+Path,,-34.67259919,150.8543663,Train,Kiama,Railway,Pedestrain
+Path,,-34.03491126,151.0710203,Train,Kirrawee,Oak,Road
+Path,,-33.874998,151.1535804,Train,Leichhardt North Lr,City West Link,Road
+Path,,-34.05031272,150.8307679,Train,Leumeah,Plough Inn,Road
+Path,,-33.89385044,151.1434623,Train,Lewisham West Lr,Hudson,Street
+Path,,-33.8937862,151.1433429,Train,Lewisham West Lr,Smith,Street
+Path,,-33.86353155,151.0450641,Train,Lidcombe,Church,Street
+Path,,-33.71533075,150.5053218,Train,Linden,Great Western,Highway
+Path,,-33.38219289,151.3701652,Train,Lisarow,Pacific,Highway
+Path,,-33.38205966,151.3700717,Train,Lisarow,Railway,Crescent
+Path,,-33.48092585,150.156929,Train,Lithgow,Main,Street
+Path,,-33.48051667,150.1567066,Train,Lithgow,Railway,Pedestrain
+Path,,-33.92314617,150.927698,Train,Liverpool,Moore,Street
+Path,,-32.73774765,151.552236,Train,Maitland,Station,Street
+Path,,-33.8839155,151.1449963,Train,Marion Lr,Marion,Street
+Path,,-33.9139756,151.153316,Train,Marrickville,Station,Street
+Path,,-34.70959939,150.0056691,Train,Marulan,Railway,Pedestrain
+Path,,-34.7095012,150.0056778,Train,Marulan,Wollondilly,Street
+Path,,-34.12585573,150.7440669,Train,Menangle,Stevens,Road
+Path,,-33.84594618,151.2117195,Train,Milsons Point,Alfred,Street
+Path,,-34.54838916,150.372103,Train,Moss Vale,Argyle,Street
+Path,,-34.54759291,150.3718707,Train,Moss Vale,Lackey,Road
+Path,,-33.39478142,151.3445536,Train,Narara,Goonak,Pedestrain
+Path,,-33.39460601,151.3444151,Train,Narara,Narara Valley,Drive
+Path,,-33.9475007,151.0707991,Train,Narwee,Hannans,Road
+Path,,-33.94783139,151.0706442,Train,Narwee,Hurst,Place
+Path,,-32.9239171,151.7593884,Train,Newcastle Interchange,Charles,Street
+Path,,-32.92445674,151.7589509,Train,Newcastle Interchange,Cooper,Street
+Path,,-32.92428036,151.7597512,Train,Newcastle Interchange,Hannell,Street
+Path,,-33.72090894,151.0971516,Train,Normanhurst,Denman,Pedestrain
+Path,,-33.72064788,151.0969021,Train,Normanhurst,Malsbury,Road
+Path,,-33.841012815,151.20743655,Train,North Sydney,Blue,Street
+Path,,-34.41208744,150.8913264,Train,North Wollongong,Porter,Street
+Path,,-34.41211824,150.8915599,Train,North Wollongong,Station,Street
+Path,,-33.8466749325,151.069751425,Train,Olympic Park,Dawn Fraser,Avenue
+Path,,-33.84608649,151.0700814,Train,Olympic Park,Murray Rose,Avenue
+Path,,-33.8461115,151.070683,Train,Olympic Park,Park,Street
+Path,,-33.84698401,151.0682717,Train,Olympic Park,Showground,Road
+Path,,-33.35953413,151.369743,Train,Ourimbah,Station,Street
+Path,,-33.879295855,151.20268065,Train,Paddy'S Markets,Hay,Street
+Path,,-33.95168459,151.0323447,Train,Padstow,Banks,Street
+Path,,-33.95200543,151.0319661,Train,Padstow,Memorial,Drive
+Path,,-33.80130891,150.9558506,Train,Pendle Hill,Joyce,Street
+Path,,-33.73771583,151.0726063,Train,Pennant Hills,Yarrara,Road
+Path,,-34.6721605,150.212086,Train,Penrose,Kareela,Road
+Path,,-34.67230549,150.2122744,Train,Penrose,Penrose,Road
+Path,,-33.869535,151.197707,Train,Pyrmont Bay Lr,Murray,Street
+Path,,-33.8920298,151.1995113,Train,Redfern,Gibbons,Street
+Path,,-33.891563,151.198824,Train,Redfern,Lawson,Street
+Path,,-33.8833513,151.0241784,Train,Regents Park,Amy,Street
+Path,,-33.679812495,150.8606249,Train,Riverstone,Garfield,Road W
+Path,,-33.67905167,150.8604401,Train,Riverstone,Riverstone,Pedestrain
+Path,,-33.9514708,151.0525622,Train,Riverwood,Belmore,Road
+Path,,-33.81015641,151.0294797,Train,Rydalmere,Brodie,Street
+Path,,-33.70483553,150.8742383,Train,Schofields,Railway,Terrace
+Path,,-32.04670656,150.8670728,Train,Scone,Susan,Street
+Path,,-32.57183342,151.1654861,Train,Singleton,Munro,Street
+Path,,-33.90694267,151.1806495,Train,St Peters,Lord,Street
+Path,,-33.90745391,151.1808612,Train,St Peters,May,Lane
+Path,,-34.0315567,151.0573425,Train,Sutherland,East,Pedestrain
+Path,,-33.9148634,151.1660472,Train,Sydenham,Gleeson,Avenue
+Path,,-34.22358755,150.5902412,Train,Tahmoor,George,Street
+Path,,-34.22346581,150.5898308,Train,Tahmoor,Pitt,Street
+Path,,-34.71837568,150.0860928,Train,Tallong,Railway,Pedestrain
+Path,,-33.794288295,151.04158245,Train,Telopea,Sturt,Street
+Path,,-32.962727,151.6039263,Train,Teralba,William,Street
+Path,,-33.8672709,151.1957096,Train,The Star Lr,Pirrama,Road
+Path,,-34.31788392,150.918865,Train,Thirroul,Railway,Pedestrain
+Path,,-33.73207901,151.0783738,Train,Thornleigh,Railway,Pedestrain
+Path,5,-33.87346213,151.2056759,Train,Town Hall,Kent,Street
+Path,,-33.73258953,151.1290978,Train,Turramurra,Rohini,Street
+Path,,-33.73287787,151.128659,Train,Turramurra,William,Street
+Path,,-33.71028639,151.105246,Train,Waitara,Alexandria,Pedestrain
+Path,,-33.8989622,151.140003,Train,Waratah Mills Lr,Davis,Street
+Path,,-33.8988126,151.1398647,Train,Waratah Mills Lr,Weston,Street
+Path,,-33.247258540000004,151.4489911,Train,Warnervale,Warnervale,Road
+Path,,-33.72454128,151.1217229,Train,Warrawee,Heydon,Avenue
+Path,,-33.72439373,151.1220398,Train,Warrawee,Warrawee,Avenue
+Path,,-33.837588855,151.19740245,Train,Waverton,Bay,Road
+Path,,-33.8742417,151.1940945,Train,Wentworth Park Lr,Pyrmont Bridge,Road
+Path,,-33.61292723,150.8090296,Train,Windsor,Cox,Street
+Path,,-33.61362381,150.8111058,Train,Windsor,George,Street
+Path,,-34.69233579,150.1583818,Train,Wingello,Railway,Pedestrain
+Path,,-34.69201661,150.1582058,Train,Wingello,Sydney,Street
+Path,,-34.425849889999995,150.8884254,Train,Wollongong,Crown,Street
+Path,,-34.42720865,150.8879475,Train,Wollongong,Railway Staiton,Square
+Path,,-34.42698795,150.8884363,Train,Wollongong,Station,Street
+Path,,-33.8315907,151.1925953,Train,Wollstonecraft,Milner,Crescent
+Path,,-33.83146743,151.1915732,Train,Wollstonecraft,Milray,Avenue
+Path,,-33.8326745,151.1917926,Train,Wollstonecraft,Shirley,Road
+Path,,-33.48597397,151.324352,Train,Woy Woy,Blackwall,Road
+Path,1,-33.86572268,151.206269,Train,Wynyard,Carrington,Street
+Path,4,-33.86564376,151.2050042,Train,Wynyard,Clarence,Street
+Path,,-33.86445369,151.2053161,Train,Wynyard,Jamison,Street
+Path,,-33.86524696,151.20397,Train,Wynyard,Napoleon,Street
+Path,3,-33.86560119,151.2055201,Train,Wynyard,York,Street
+Path,,-33.90733106,151.0246767,Train,Yagoona,Hume,Highway
+Path,,-34.37159251,150.5434481,Train,Yerrinbool,Old Hume,Highway
+Ramp,,-32.16688641,150.8919573,Train,Aberdeen,Macqueen,Street
+Ramp,,-32.93340162,151.7203474,Train,Adamstown,St James,Road
+Ramp,,-34.56340933,150.79939,Train,Albion Park,Burroo,Street
+Ramp,,-34.56314457,150.7988039,Train,Albion Park,Princes,Highway
+Ramp,,-33.969927815,151.11459265,Train,Allawah,Railway,Pedestrain
+Ramp,,-33.96953727,151.1146945,Train,Allawah,Roberts,Lane
+Ramp,,-33.80823377,151.1847419,Train,Artarmon,Valetta,Lane
+Ramp,,-33.68848916,151.1079991,Train,Asquith,Pacific,Highway
+Ramp,,-33.8492876,151.0332914,Train,Auburn,Rawson,Street
+Ramp,,-33.84946375,151.0327209,Train,Auburn,South,Pedestrain
+Ramp,,-33.0129167,151.5421589,Train,Awaba,Adelaide,Street
+Ramp,,-33.01310914,151.5420747,Train,Awaba,Wilton,Road
+Ramp,,-33.94490035,151.140849,Train,Banksia,Hattersley,Street
+Ramp,,-33.94479129,151.1404987,Train,Banksia,Railway,Street
+Ramp,,-33.91768635,151.0342697,Train,Bankstown,North,Terrace
+Ramp,,-34.29098411,150.5801501,Train,Bargo,Great Southern,Road
+Ramp,,-34.29100778,150.5800205,Train,Bargo,Railside,Avenue
+Ramp,,-33.5061656,150.2793612,Train,Bell,Sandham,Road
+Ramp,,-34.36261281,150.9101311,Train,Bellambi,Bellambi,Lane
+Ramp,,-33.62295827,151.15335295,Train,Berowra,Pacific,Highway
+Ramp,,-33.74411767,150.6093887,Train,Blaxland,Great Western,Highway
+Ramp,,-34.65885576,150.8537564,Train,Bombo,Princes,Highway
+Ramp,,-33.89186986,151.2483663,Train,Bondi Junction,Rowe,Street
+Ramp,,-32.97169903,151.605168,Train,Booragul,Fourth,Street
+Ramp,,-32.97190014,151.6047908,Train,Booragul,Station,Street
+Ramp,,-32.662151345,151.3457341,Train,Branxton,Railway,Street
+Ramp,,-32.92216413,151.7352213,Train,Broadmeadow,Brown,Road
+Ramp,,-32.92289153,151.7350658,Train,Broadmeadow,Graham,Road
+Ramp,,-33.72351988,150.4152013,Train,Bullaburra,Great Western,Highway
+Ramp,,-34.6557524,150.2997407,Train,Bundanoon,Erith,Street
+Ramp,,-34.49418573,150.3978582,Train,Burradoo,Burradoo,Road
+Ramp,,-33.89494229,150.9387321,Train,Cabramatta,Railway,Pedestrain
+Ramp,,-33.81918103,151.024141,Train,Camellia,Grand,Avenue
+Ramp,,-34.06418971,150.8148139,Train,Campbelltown,Railway,Street
+Ramp,,-33.91044441,151.10356585,Train,Campsie,Beamish,Street
+Ramp,,-33.88746282,150.9436297,Train,Canley Vale,First,Avenue
+Ramp,,-33.88734662,150.9434198,Train,Canley Vale,Railway,Pedestrain
+Ramp,,-33.78270924,151.046786,Train,Carlingford,Lloyds,Avenue
+Ramp,,-33.96798067,151.1241795,Train,Carlton,Carlton,Pedestrain
+Ramp,4,-33.88352173,151.2079563,Train,Central,Elizabeth,Street
+Ramp,,-33.608518329999995,150.78782825,Train,Clarendon,Racecource,Road
+Ramp,1,-33.83554673,151.0170387,Train,Clyde,Berry,Street
+Ramp,2,-33.83606198,151.0165639,Train,Clyde,Factory,Street
+Ramp,,-34.00447157,151.0676891,Train,Como,Como,Pedestrain
+Ramp,,-34.43796566,150.884845,Train,Coniston,Gladsone,Avenue
+Ramp,,-33.87286403,151.1981517,Train,Convention Centre Lr,Darling,Drive
+Ramp,,-33.59338482,151.17160155,Train,Cowan,Pacific,Highway
+Ramp,,-33.88283666,151.1155154,Train,Croydon,Hennessy,Street
+Ramp,,-33.76362795,150.8692347,Train,Doonside,Cross,Street
+Ramp,,-33.76401541,150.8692816,Train,Doonside,School,Pedestrain
+Ramp,,-33.80388354,151.0329178,Train,Dundas,Kissing Point,Road
+Ramp,,-32.40255754,151.759385,Train,Dungog,Brown,Street
+Ramp,,-33.961652224999995,150.98435225,Train,East Hills,Park,Road
+Ramp,,-33.60180319,150.7588294,Train,East Richmond,Bourke,Street
+Ramp,,-33.790170255,151.0826516,Train,Eastwood,Railway,Pedestrain
+Ramp,,-34.06736759,151.01478905,Train,Engadine,Princes,Highway
+Ramp,,-33.87677819,151.1994751,Train,Exhibition Centre Lr,Darling,Drive
+Ramp,,-32.985625645,151.5810249,Train,Fassifern,Tucker,Close
+Ramp,,-33.696593155,150.53468305,Train,Faulconbridge,Great Western,Highway
+Ramp,,-34.74477882,150.8176504,Train,Gerringong,Belinda,Street
+Ramp,,-33.87729496,151.187253,Train,Glebe Lr,Bayview,Street
+Ramp,,-33.76902646,150.6212638,Train,Glenbrook,Burfitt,Pedestrain
+Ramp,,-33.75596499,151.1540965,Train,Gordon,St Johns,Avenue
+Ramp,,-33.75568255,151.1539778,Train,Gordon,Wade,Lane
+Ramp,,-33.755667335,151.15463005,Train,Gordon,Werona,Avenue
+Ramp,,-33.83283856,151.01144855,Train,Granville,Memorial,Drive
+Ramp,,-32.68667582,151.3840538,Train,Greta,Mansfield,Street
+Ramp,,-32.68678796,151.384282,Train,Greta,Nelson,Street
+Ramp,,-33.853995145,150.98452535,Train,Guildford,Military,Road
+Ramp,,-33.854233,150.9846821,Train,Guildford,Railway,Terrace
+Ramp,,-32.918474495,151.74832635,Train,Hamilton,Beaumont,Street
+Ramp,,-33.82335758,151.0079326,Train,Harris Park,Marion,Street
+Ramp,,-33.72308654,150.454017,Train,Hazelbrook,Great Western,Highway
+Ramp,,-34.0877856,151.008298,Train,Heathcote,Princes,Highway
+Ramp,,-34.08793975,151.0084144,Train,Heathcote,Wilson,Pedestrain
+Ramp,,-32.74197207,151.5641955,Train,High Street,Le Darcy,Drive
+Ramp,,-32.50448435,151.649805,Train,Hilldale,Hilldale,Road
+Ramp,,-33.96297936,150.9564564,Train,Holsworthy,The Boulevarde,Others
+Ramp,,-33.866968,151.0861075,Train,Homebush,The Crescent,Others
+Ramp,,-33.703644665,151.09879465,Train,Hornsby,George,Street
+Ramp,,-33.703839,151.099774,Train,Hornsby,Hunter,Lane
+Ramp,,-33.96651714,151.1019021,Train,Hurstville,Forest,Road
+Ramp,,-33.99760206,150.8646186,Train,Ingleburn,Ingleburn,Road
+Ramp,,-33.99742169,150.8643133,Train,Ingleburn,Stanley,Road
+Ramp,,-34.01599453,151.0643704,Train,Jannali,Mitchell,Avenue
+Ramp,,-34.01609101,151.0648408,Train,Jannali,Railway,Crescent
+Ramp,,-33.86726224,151.1924304,Train,John Street Square Lr,Harris,Street
+Ramp,,-33.875449489999994,151.178483,Train,Jubilee Park Lr,Chapman,Road
+Ramp,,-33.71227605,150.3121389,Train,Katoomba,Bathurst,Road
+Ramp,,-33.71194806,150.3121686,Train,Katoomba,Goldsmith,Place
+Ramp,,-34.47012644,150.8177961,Train,Kembla Grange,West Dapto,Others
+Ramp,,-33.75823391,150.7202398,Train,Kingswood,Richmond,Road
+Ramp,,-33.96279569,151.1321022,Train,Kogarah,Station,Street
+Ramp,,-32.94136917,151.6974634,Train,Kotara,Kotara,Place
+Ramp,,-33.77327862,150.6426352,Train,Lapstone,Explorers,Road
+Ramp,,-33.71928932,150.42978005,Train,Lawson,Great Western,Highway
+Ramp,,-33.71950783,150.4304172,Train,Lawson,Honour,Avenue
+Ramp,,-33.7189722,150.4296065,Train,Lawson,Lotus,Street
+Ramp,,-33.88126383,150.984962,Train,Leightonfield,Christina,Road
+Ramp,,-33.88189412,150.9851028,Train,Leightonfield,Monier,Square
+Ramp,,-34.05080184,150.8307251,Train,Leumeah,Old Leumeah,Road
+Ramp,,-34.05102916,150.8304338,Train,Leumeah,O'Sullivan,Road
+Ramp,,-33.87419537,151.1648238,Train,Lilyfield Lr,Catherine,Street
+Ramp,,-33.77526721,151.1693706,Train,Lindfield,Lindfield,Avenue
+Ramp,,-33.77573861,151.1691075,Train,Lindfield,Pacific,Highway
+Ramp,,-32.720439295,151.45050605,Train,Lochinvar,Station,Lane
+Ramp,,-34.04545425,151.0512098,Train,Loftus,Loftus,Avenue
+Ramp,,-34.04499976,151.0513888,Train,Loftus,Pitt,Street
+Ramp,,-33.98496652,150.8789376,Train,Macquarie Fields,Railway,Pedestrain
+Ramp,,-32.55848164,151.618412,Train,Martins Creek,Grace,Avenue
+Ramp,,-33.81555584,151.089916,Train,Meadowbank,Bank,Street
+Ramp,,-33.67465401,150.2811412,Train,Medlow Bath,Great Western,Highway
+Ramp,,-34.12539404,150.7441804,Train,Menangle,Stevens,Road
+Ramp,,-34.10338167,150.7450798,Train,Menangle Park,Racecourse,Avenue
+Ramp,,-34.10338507,150.7449509,Train,Menangle Park,Racecourse,Road
+Ramp,,-33.836821805,150.9924984,Train,Merrylands,Railway,Terrace
+Ramp,,-33.836582815,150.9923407,Train,Merrylands,Terminal,Place
+Ramp,,-33.84579562,151.212403,Train,Milsons Point,Ennis,Road
+Ramp,,-32.66835055,151.5845537,Train,Mindaribba,Tocal,Road
+Ramp,,-34.62633044,150.8530098,Train,Minnamurra,North,Street
+Ramp,,-34.02776996,150.8425506,Train,Minto,Minto,Road
+Ramp,,-34.02769333,150.8422318,Train,Minto,Somerset,Street
+Ramp,,-34.036075,151.1019708,Train,Miranda,Kiora,Road
+Ramp,,-33.10895092,151.4878847,Train,Morisset,Dora,Street
+Ramp,,-33.1090292,151.4882497,Train,Morisset,Macquarie,Street
+Ramp,,-33.7699575,150.8201085,Train,Mount Druitt,Beames,Avenue
+Ramp,,-33.76905662,150.8203218,Train,Mount Druitt,North,Pedestrain
+Ramp,,-33.65382377,151.1369886,Train,Mount Kurring-Gai,Harwood,Avenue
+Ramp,,-33.65376948,151.1365683,Train,Mount Kurring-Gai,Pacific,Highway
+Ramp,,-33.62649899,150.8298983,Train,Mulgrave,Mulgrave,Road
+Ramp,,-32.26744191,150.890863,Train,Muswellbrook,Market,Street
+Ramp,,-33.89787696,151.1788814,Train,Newtown,King,Street
+Ramp,,-33.8597069,151.0882075,Train,North Strathfield,Hamilton,Street
+Ramp,,-33.85755734,151.0873986,Train,Noth Strathfield,Pomeroy,Street
+Ramp,,-34.571856175,150.8204101,Train,Oak Flats,Stanford,Drive
+Ramp,,-33.84634363,151.0694956,Train,Olympic Park,Murray Rose,Avenue
+Ramp,,-34.21072283,151.0055213,Train,Otford,Lady Carrington,Road
+Ramp,,-33.35955493,151.3701089,Train,Ourimbah,Mill,Street
+Ramp,,-33.9520945,151.0320242,Train,Padstow,Howard,Road
+Ramp,,-33.95176466,151.0319792,Train,Padstow,Memorial,Drive
+Ramp,,-33.95413352,150.9982975,Train,Panania,Anderson,Avenue
+Ramp,,-33.95440402,150.998267,Train,Panania,Weston,Street
+Ramp,,-33.80135205,150.9559293,Train,Pendle Hill,Joyce,Street
+Ramp,,-33.80167682,150.9570035,Train,Pendle Hill,Wentworth,Avenue
+Ramp,,-33.73816108,151.0725647,Train,Pennant Hills,Railway,Street
+Ramp,,-33.96633248,151.088801,Train,Penshurst,Laycock,Road
+Ramp,,-33.44621399,151.3282199,Train,Point Clare,Brisbane Water,Drive
+Ramp,,-34.47718852,150.9028567,Train,Port Kembla,Old Port,Road
+Ramp,,-33.88324672,151.0237008,Train,Regents Park,Park,Road
+Ramp,,-33.5988545,150.7522539,Train,Richmond,E Market,Street
+Ramp,,-33.95191037,151.1364413,Train,Rockdale,Railway,Street
+Ramp,,-33.77201339,150.844247,Train,Rooty Hill,Beames,Avenue
+Ramp,,-33.77124814,150.8438721,Train,Rooty Hill,Rooty Hill North,Road
+Ramp,,-33.82308432,151.0218152,Train,Rosehill,James Ruse,Drive
+Ramp,,-33.78434859,151.1778664,Train,Roseville,Hill,Street
+Ramp,,-33.7846798,151.177749,Train,Roseville,Pacific,Highway
+Ramp,,-33.871905275,151.17293155,Train,Rozelle Bay Lr,Bayview,Crescent
+Ramp,,-33.77410285,150.9359253,Train,Seven Hills,Prospect,Highway
+Ramp,,-33.77452,150.935432,Train,Seven Hills,The Hills,Crescent
+Ramp,,-32.57190726,151.1656118,Train,Singleton,Munro,Street
+Ramp,,-33.69936145,150.5635226,Train,Springwood,Macquarie,Road
+Ramp,,-33.69896475,150.5633045,Train,Springwood,Station,Street
+Ramp,,-33.87003326,151.2112893,Train,St James,James,Road
+Ramp,,-33.89416485,151.1642047,Train,Stanmore,Douglas,Street
+Ramp,,-33.89467603,151.1641571,Train,Stanmore,Trafalgar,Street
+Ramp,,-33.87185964,151.0938299,Train,Strathfield,Albert,Road
+Ramp,,-33.87220808,151.0942838,Train,Strathfield,Strathfield,Square
+Ramp,,-33.89043171,151.1386155,Train,Summer Hill,Carlton,Crescent
+Ramp,,-34.03183438,151.0569098,Train,Sutherland,East,Pedestrain
+Ramp,,-33.45083997,151.3188156,Train,Tascott,Brisbane Water,Drive
+Ramp,,-33.45077303,151.3187403,Train,Tascott,Glenrock,Pedestrain
+Ramp,,-32.72323179,151.5398951,Train,Telarah,Johnson,Street
+Ramp,,-33.79402152,151.0412637,Train,Telopea,Adderton,Road
+Ramp,,-33.79424948,151.0415241,Train,Telopea,Sturt,Street
+Ramp,,-32.96276877,151.60415,Train,Teralba,William,Street
+Ramp,,-33.78714281,150.9511669,Train,Toongabbie,Portice,Pedestrain
+Ramp,,-33.78699939,150.9516071,Train,Toongabbie,Wentworth,Avenue
+Ramp,,-34.38410528,150.90151305,Train,Towradgi,Towradgi,Road
+Ramp,,-33.3077456,151.4204201,Train,Tuggerah,Bryant,Drive
+Ramp,,-33.30747496,151.4200755,Train,Tuggerah,Pacific,Highway
+Ramp,,-33.70385585,150.5840194,Train,Valley Heights,Great Western,Highway
+Ramp,,-33.65018802,150.851063,Train,Vineyard,Bandon,Road
+Ramp,,-32.49615032,151.6956921,Train,Wallarobba,Wallarobba Brookfield,Road
+Ramp,,-32.88698384,151.7111872,Train,Warabrook,Eucalyptus,Crescent
+Ramp,,-32.88848678,151.709521,Train,Warabrook,Ring,Road
+Ramp,,-33.72183064,150.60271255,Train,Warrimoo,Great Western,Highway
+Ramp,,-34.13517267,150.994605,Train,Waterfall,Kooraban,Street
+Ramp,,-33.87506758,151.1935385,Train,Wentworth Park Lr,Wattle,Street
+Ramp,,-33.80706875,150.9718275,Train,Wentworthville,The Kingsway,Others
+Ramp,,-33.80667668,150.971932,Train,Wentworthville,Wentworth,Avenue
+Ramp,,-33.806959855,151.09012035,Train,West Ryde,West,Pedestrain
+Ramp,,-33.80864182,150.9876577,Train,Westmead,Alexandria,Avenue
+Ramp,,-33.80819002,150.9877158,Train,Westmead,Railway,Pedestrain
+Ramp,,-33.92274334,151.06804055,Train,Wiley Park,King Georges,Road
+Ramp,,-32.46292679,151.7424687,Train,Wirragula,Dungog,Road
+Ramp,,-34.42679193,150.8878175,Train,Wollongong,Railway Staiton,Square
+Ramp,,-33.83245952,151.1921823,Train,Wollstonecraft,Shirley,Road
+Ramp,,-33.49202131,151.2571482,Train,Wondabyne,Wondabyne Wharf,Others
+Ramp,,-33.73536804,150.4813636,Train,Woodford,Great Western,Highway
+Ramp,,-34.349361384999995,150.91525005,Train,Woonona,Park,Road
+Ramp,,-33.48527377,151.3237255,Train,Woy Woy,Railway,Street
+Ramp,,-33.17984054,151.48724,Train,Wyee,Wyee,Road
+Ramp,,-33.86502912,150.9707162,Train,Yennora,Railway,Street
+Stairs,,-32.16689969,150.8919751,Train,Aberdeen,Macqueen,Street
+Stairs,,-32.93341396,151.7203632,Train,Adamstown,St James,Road
+Stairs,,-34.56293995,150.798574,Train,Albion Park,Princes,Highway
+Stairs,,-33.96949011,151.1145667,Train,Allawah,Roberts,Lane
+Stairs,,-33.93671781,151.1468509,Train,Arncliffe,Firth,Street
+Stairs,,-33.93692447,151.1474278,Train,Arncliffe,The Arcade,Others
+Stairs,,-33.80854065,151.1844285,Train,Artarmon,Hampden,Road
+Stairs,,-33.887775,151.1255397,Train,Ashfield,Brown,Street
+Stairs,,-33.88739665,151.1258025,Train,Ashfield,Station,Street
+Stairs,,-33.849663,151.0329192,Train,Auburn,South,Pedestrain
+Stairs,,-33.94488347,151.1404482,Train,Banksia,Railway,Street
+Stairs,,-33.93137824,151.125379,Train,Bardwell Park,Hartill Law,Avenue
+Stairs,,-33.50623435,150.2790794,Train,Bell,Chiefley,Road
+Stairs,,-33.91722736,151.0883244,Train,Belmore,Burwood,Road
+Stairs,,-32.79958398,151.658334,Train,Beresfield,Addison,Street
+Stairs,,-32.79940714,151.6585784,Train,Beresfield,Lawson,Avenue
+Stairs,,-33.949201615,151.080673,Train,Beverly Hills,King Georges,Road
+Stairs,,-33.9374812,151.1139261,Train,Bexley North,Bexley,Road
+Stairs,,-33.89253644,151.0243134,Train,Birrong,Avalon,Street
+Stairs,,-33.63397248,150.2845903,Train,Blackheath,Great Western,Highway
+Stairs,,-33.63400546,150.2842535,Train,Blackheath,Station,Street
+Stairs,6,-33.76775531,150.90799425,Train,Blacktown,First,Avenue
+Stairs,2,-33.76894183,150.9073054,Train,Blacktown,Jim Simpson,Lane
+Stairs,4,-33.76779802,150.9069245,Train,Blacktown,Old Richmond,Road
+Stairs,1,-33.76903303,150.9069899,Train,Blacktown,Patrick,Street
+Stairs,,-33.74392652,150.60950745,Train,Blaxland,Great Western,Highway
+Stairs,,-33.74366205,150.6098058,Train,Blaxland,Wilson,Way
+Stairs,,-34.65868669,150.8537686,Train,Bombo,Princes,Highway
+Stairs,,-33.89101213,151.24840255,Train,Bondi Junction,Grafton,Street
+Stairs,,-34.47822202,150.4163793,Train,Bowral,Kirkham,Road
+Stairs,,-34.47841685,150.4165949,Train,Bowral,Wingercarribee,Street
+Stairs,,-32.92236891,151.7349462,Train,Broadmeadow,Brown,Road
+Stairs,,-32.92269277,151.7354129,Train,Broadmeadow,Graham,Road
+Stairs,,-33.72316759,150.4149891,Train,Bullaburra,Railway,Pedestrain
+Stairs,,-33.87704552,151.1038525,Train,Burwood,Burwood,Road
+Stairs,,-33.89480632,150.9390481,Train,Cabramatta,Broomfield,Street
+Stairs,,-34.06317378,150.8142158,Train,Campbelltown,Farrow,Road
+Stairs,,-34.06367954,150.8146141,Train,Campbelltown,Hurley,Street
+Stairs,,-33.88744308,150.9436897,Train,Canley Vale,First,Avenue
+Stairs,,-33.88723441,150.9434805,Train,Canley Vale,Railway,Pedestrain
+Stairs,,-32.94145731,151.6623011,Train,Cardiff,Mary,Street
+Stairs,,-34.04157881,151.121856,Train,Caringbah,Kingsway,Others
+Stairs,,-33.96809212,151.1242377,Train,Carlton,Carlton,Pedestrain
+Stairs,,-33.96846874,151.1243442,Train,Carlton,Railway,Pedestrain
+Stairs,,-33.950189435,150.91191225,Train,Casula,Casula,Road
+Stairs,6,-33.88547844,151.2067901,Train,Central,Chalmers,Street
+Stairs,3,-33.882563655,151.2066008,Train,Central,Eddy,Avenue
+Stairs,5,-33.88378577,151.207862,Train,Central,Elizabeth,Street
+Stairs,,-33.79677523,151.1813805,Train,Chatswood,Orchard,Road
+Stairs,,-33.79722746,151.1814421,Train,Chatswood,Post Office,Lane
+Stairs,,-33.797055485,151.18059765,Train,Chatswood,Railway,Street
+Stairs,,-33.797785094999995,151.18091415,Train,Chatswood,Thomas,Street
+Stairs,,-33.75539745,151.0781497,Train,Cheltenham,Cheltenham,Road
+Stairs,,-33.8613677825,151.2106733,Train,Circular Quay,Alfred,Street
+Stairs,,-34.24253571,150.977052,Train,Coalcliff,Lawrence Hargrave,Drive
+Stairs,,-32.94246711,151.6244306,Train,Cockle Creek,Lake,Road
+Stairs,,-34.28989285,150.943031,Train,Coledale,Cater,Street
+Stairs,,-34.00445849,151.06828925,Train,Como,Railway,Road
+Stairs,,-33.848083895,151.0852015,Train,Concord West,King,Street
+Stairs,,-33.84809272,151.0859526,Train,Concord West,Queen,Street
+Stairs,,-34.43823905,150.8851205,Train,Coniston,Bridge,Street
+Stairs,,-34.46708061,150.8799583,Train,Cringila,Central,Road
+Stairs,,-34.46737362,150.8782723,Train,Cringila,Five Island,Road
+Stairs,,-33.8831857,151.1150828,Train,Croydon,Paisley,Road
+Stairs,,-33.933817399999995,151.18035775,Train,Domestic,Keith Smith,Avenue
+Stairs,,-33.084067954999995,151.5007812,Train,Dora Creek,Newport,Road
+Stairs,,-33.904761,151.1390021,Train,Dulwich Grove Lr,New Canterbury,Road
+Stairs,,-33.91105837,151.1411463,Train,Dulwich Hill,Wardell,Road
+Stairs,,-33.9106718,151.1405847,Train,Dulwich Hill Lr,Bedford,Crescent
+Stairs,,-33.80389499,151.0328954,Train,Dundas,Kissing Point,Road
+Stairs,,-32.40249309,151.759251,Train,Dungog,Brown,Street
+Stairs,,-33.96164228,150.9843435,Train,East Hills,Park,Road
+Stairs,,-32.74457268,151.5874741,Train,East Maitland,Melbourne,Street
+Stairs,,-33.6017457,150.7587291,Train,East Richmond,Bourke,Street
+Stairs,,-33.96936246,150.8588449,Train,Edmondson Park,Soliders,Pedestrain
+Stairs,,-33.74552422,150.6713807,Train,Emu Plains,Mackellar,Street
+Stairs,,-33.74577768,150.6714125,Train,Emu Plains,Old Bathurst,Road
+Stairs,,-33.77287848,151.0817566,Train,Epping,Beecroft,Road
+Stairs,,-33.87678771,151.1992504,Train,Exhibition Centre Lr,Pyrmont,Street
+Stairs,,-33.87250991,150.9570068,Train,Fairfield,Dale,Street
+Stairs,,-33.87238918,150.9568642,Train,Fairfield,The Crescent,Others
+Stairs,,-34.395078435,150.89651465,Train,Fairy Meadow,Elliotts,Road
+Stairs,,-32.98568106,151.5811753,Train,Fassifern,Tucker,Close
+Stairs,,-33.69655086666666,150.5347707,Train,Faulconbridge,Great Western,Highway
+Stairs,,-33.864523795,151.0704578,Train,Flemington,The Crescent,Others
+Stairs,,-33.87707686,151.1875647,Train,Glebe Lr,Burton,Street
+Stairs,,-33.97227673,150.8933513,Train,Glenfield,Railway,Pedestrain
+Stairs,,-33.97173912,150.893269,Train,Glenfield,Service Road,Others
+Stairs,,-33.75612016,151.1541758,Train,Gordon,St Johns,Avenue
+Stairs,,-33.42348165,151.341911,Train,Gosford,Burns,Crescent
+Stairs,,-33.4233302,151.3414142,Train,Gosford,Showground,Road
+Stairs,,-33.905892225,151.20305425,Train,Green Square,Botany,Road
+Stairs,,-33.854294105,150.9843031,Train,Guildford,Military,Road
+Stairs,,-33.85444912,150.9845955,Train,Guildford,Railway,Terrace
+Stairs,,-34.03487034,151.0851825,Train,Gymea,Gymea Bay,Road
+Stairs,,-32.91820537,151.7483906,Train,Hamilton,Beaumont,Street
+Stairs,,-33.82326239,151.0074636,Train,Harris Park,Station W,Street
+Stairs,,-33.547055040000004,151.22665695,Train,Hawkesbury River,Danger,Road
+Stairs,,-33.72353033,150.454573,Train,Hazelbrook,Great Western,Highway
+Stairs,,-34.17714736,150.9940859,Train,Helensburgh,Tunnel,Road
+Stairs,,-32.8287522,151.68432,Train,Hexham,Maitland,Road
+Stairs,,-32.7413273,151.5644242,Train,High Street,High,Street
+Stairs,,-33.96292706,150.9565045,Train,Holsworthy,The Boulevarde,Others
+Stairs,,-33.86641951,151.0864214,Train,Homebush,Loftus,Crescent
+Stairs,,-33.8669269,151.0860951,Train,Homebush,The Crescent,Others
+Stairs,,-33.70356981,151.0988312,Train,Hornsby,George,Street
+Stairs,,-33.96703441,151.1028477,Train,Hurstville,Forest,Road
+Stairs,,-33.96768463,151.102359,Train,Hurstville,Ormonde,Pedestrain
+Stairs,,-33.997663904999996,150.8646268,Train,Ingleburn,Ingleburn,Road
+Stairs,,-33.99757653,150.8640104,Train,Ingleburn,Stanley,Road
+Stairs,,-33.86716237,151.192075,Train,John Street Square Lr,Harvey,Street
+Stairs,,-33.87532035,151.1786149,Train,Jubilee Park Lr,Chapman,Road
+Stairs,,-33.71225211,150.3117845,Train,Katoomba,Bathurst,Road
+Stairs,,-33.76585281,151.1617973,Train,Killara,Culworth,Avenue
+Stairs,,-33.76569485,151.1620999,Train,Killara,Werona,Avenue
+Stairs,,-33.8741347,151.22234975,Train,Kings Cross,Victoria,Street
+Stairs,,-33.94041675,151.10097075,Train,Kingsgrove,Kingsgrove,Road
+Stairs,,-33.75836745,150.720071,Train,Kingswood,Great Western,Highway
+Stairs,,-33.75823344,150.7201166,Train,Kingswood,Richmond,Road
+Stairs,,-33.96279661,151.1326915,Train,Kogarah,Regent,Street
+Stairs,,-33.962646664999994,151.13217325,Train,Kogarah,Station,Street
+Stairs,,-33.46613862,151.3184231,Train,Koolewong,Glenrock,Pedestrain
+Stairs,,-32.94176982,151.6980592,Train,Kotara,Park,Avenue
+Stairs,,-33.919759,151.0761338,Train,Lakemba,Railway,Pedestrain
+Stairs,,-33.77355931,150.6426108,Train,Lapstone,Explorers,Road
+Stairs,,-33.87499429,151.1550175,Train,Leichhardt North Lr,James,Street
+Stairs,,-33.95443956,150.8082668,Train,Leppingon,Rickard,Road
+Stairs,,-34.05081332,150.8307025,Train,Leumeah,Old Leumeah,Road
+Stairs,,-34.05089506,150.830574,Train,Leumeah,O'Sullivan,Road
+Stairs,,-33.71212061,150.3311289,Train,Leura,Railway,Pedestrain
+Stairs,,-33.8936359,151.1475441,Train,Lewisham,Railway,Terrace
+Stairs,,-33.8931095,151.1475983,Train,Lewisham,Thomas,Street
+Stairs,,-33.86338085,151.0445549,Train,Lidcombe,Church,Street
+Stairs,,-33.863812865,151.04446185,Train,Lidcombe,Railway,Street
+Stairs,,-33.87411594,151.1647681,Train,Lilyfield Lr,Catherine,Street
+Stairs,,-33.71474436,150.5043663,Train,Linden,Burke,Road
+Stairs,,-33.7753434,151.16937516666667,Train,Lindfield,Lindfield,Avenue
+Stairs,,-33.77582881,151.16918805,Train,Lindfield,Pacific,Highway
+Stairs,,-33.38218451,151.3701793,Train,Lisarow,Pacific,Highway
+Stairs,,-33.38207165,151.3700848,Train,Lisarow,Railway,Crescent
+Stairs,,-33.92430468,150.9269377,Train,Liverpool,Biggs,Street
+Stairs,,-34.4548118,150.8752141,Train,Lysaghts,Recycling,Road
+Stairs,,-34.072410015,150.79711755,Train,Macarthur,Menangle,Road
+Stairs,,-33.89679186,151.1853862,Train,Macdonaldtown,Burren,Street
+Stairs,,-33.98484292,150.8790781,Train,Macquarie Fields,Railway,Pedestrain
+Stairs,,-33.74622068,150.9003117,Train,Marayong,Harvey,Road
+Stairs,,-33.7462306,150.9000471,Train,Marayong,Railway,Pedestrain
+Stairs,,-33.91381018,151.15318165,Train,Marrickville,Illawarra,Road
+Stairs,18,-33.867796500000004,151.21051486666667,Train,Martin Place,Elizabeth,Street
+Stairs,1,-33.86796254,151.2116241,Train,Martin Place,Macquarie,Street
+Stairs,2,-33.867961,151.2113556,Train,Martin Place,Phillip,Street
+Stairs,,-33.92315955,151.1873924,Train,Mascot,Bourke,Street
+Stairs,,-33.81579505,151.0902088,Train,Meadowbank,Constitution,Road
+Stairs,,-33.67295305,150.2803919,Train,Medlow Bath,Great Western,Highway
+Stairs,,-33.8369802,150.99231845,Train,Merrylands,Railway,Terrace
+Stairs,,-33.83678300333333,150.99209416666667,Train,Merrylands,Terminal,Place
+Stairs,,-32.76547854,151.6182929,Train,Metford,Mccubbin,Close
+Stairs,,-34.02750455,150.8426006,Train,Minto,Minto,Road
+Stairs,,-34.02722065,150.8423272,Train,Minto,Somerset,Street
+Stairs,,-34.036075,151.1019708,Train,Miranda,Kiora,Road
+Stairs,,-34.4526389,150.4483852,Train,Mittagong,Railway,Pedestrain
+Stairs,,-34.45240354,150.4483624,Train,Mittagong,Regent,Street
+Stairs,,-33.10893132,151.48806,Train,Morisset,Dora,Street
+Stairs,,-33.10907961,151.4881539,Train,Morisset,Macquarie,Street
+Stairs,,-33.97123984,151.081009,Train,Mortdale,Coleborne,Avenue
+Stairs,,-33.97116587,151.0808093,Train,Mortdale,Cook,Lane
+Stairs,,-33.67129214,151.1150982,Train,Mount Colah,Pacific,Highway
+Stairs,,-33.76975925,150.819919,Train,Mount Druitt,Beames,Avenue
+Stairs,,-33.769038572499994,150.81996595,Train,Mount Druitt,North,Pedestrain
+Stairs,,-33.65382765,151.1370126,Train,Mount Kurring-Gai,Harwood,Avenue
+Stairs,,-33.5882678,150.257054,Train,Mount Victoria,Patrick,Street
+Stairs,,-33.58817529,150.256825,Train,Mount Victoria,Station,Street
+Stairs,,-33.87573184,151.20983405,Train,Museum,Elizabeth,Street
+Stairs,,-33.87669845,151.2091949,Train,Museum,Liverpool,Street
+Stairs,,-32.26750598,150.89063285,Train,Muswellbrook,Market,Street
+Stairs,,-33.39459444,151.3444334,Train,Narara,Narara Valley,Drive
+Stairs,,-33.38322824,151.3545729,Train,Niagara Park,Kathleen Morreau,Road
+Stairs,,-33.3830702,151.3544041,Train,Niagara Park,Washington,Avenue
+Stairs,,-33.85916251,151.0885013,Train,North Strathfield,Queen,Street
+Stairs,,-34.41230685,150.8912482,Train,North Wollongong,Porter,Street
+Stairs,,-34.41235075,150.891562,Train,North Wollongong,Station,Street
+Stairs,,-34.57188882,150.8204536,Train,Oak Flats,Stanford,Drive
+Stairs,,-33.98000494,151.0789686,Train,Oatley,River,Road
+Stairs,,-33.84670627,151.0695564,Train,Olympic Park,Dawn Fraser,Avenue
+Stairs,,-33.846349116666666,151.0694088,Train,Olympic Park,Murray Rose,Avenue
+Stairs,,-34.21052602,151.0059083,Train,Otford,Lady Carrington,Road
+Stairs,,-34.21109272,151.0055047,Train,Otford,Station,Road
+Stairs,,-33.35965695,151.3702768,Train,Ourimbah,Mill,Street
+Stairs,,-33.95170664,151.0319304,Train,Padstow,Memorial,Drive
+Stairs,,-33.81698089,151.0046804,Train,Parramatta,Darcy,Street
+Stairs,,-33.81764488333334,151.00511033333333,Train,Parramatta,Liverpool-Parramatta,T-way
+Stairs,,-33.8178785,151.0063215,Train,Parramatta,Station,Street
+Stairs,,-32.60237058,151.6147645,Train,Paterson,Main,Street
+Stairs,,-33.80127175,150.956549,Train,Pendle Hill,Wentworth,Avenue
+Stairs,,-33.7379301,151.0727775,Train,Pennant Hills,Railway,Street
+Stairs,,-33.73772306,151.0725732,Train,Pennant Hills,Yarrara,Road
+Stairs,,-33.74985862,150.6965761,Train,Penrith,Combewood,Avenue
+Stairs,,-33.7502397,150.696334,Train,Penrith,Jane,Street
+Stairs,,-33.96608121,151.0888374,Train,Penshurst,Bridge,Road
+Stairs,,-33.96631991,151.0887138,Train,Penshurst,Laycock,Road
+Stairs,,-33.8936064,151.1555418,Train,Petersham,Terminus,Street
+Stairs,,-33.89402275,151.1557675,Train,Petersham,Trafalgar,Street
+Stairs,,-34.1796657,150.6127926,Train,Picton,Prince,Street
+Stairs,,-34.17927875,150.6127309,Train,Picton,Station,Street
+Stairs,,-33.44618258,151.3282641,Train,Point Clare,Brisbane Water,Drive
+Stairs,,-33.44630072,151.3285267,Train,Point Clare,Kurrawa,Avenue
+Stairs,,-34.4730546,150.8871842,Train,Port Kembla North,Flinders,Street
+Stairs,,-33.92525226,151.0555798,Train,Punchbowl,Punchbowl,Road
+Stairs,,-33.92556758,151.0555716,Train,Punchbowl,The Boulevarde,Others
+Stairs,,-33.74463831,151.1422732,Train,Pymble,Grandview,Street
+Stairs,,-33.74498339,151.1421989,Train,Pymble,Pacific,Highway
+Stairs,,-33.72721559,150.8862174,Train,Quakers Hill,Pearce,Road
+Stairs,,-33.72721417,150.8858872,Train,Quakers Hill,Railway,Pedestrain
+Stairs,,-33.89270463,151.1981812,Train,Redfern,Marian,Street
+Stairs,,-33.88311577,151.0237932,Train,Regents Park,Park,Road
+Stairs,,-33.95270727,151.0154862,Train,Revesby,Blamey,Street
+Stairs,,-33.95231174,151.0152774,Train,Revesby,Marco,Avenue
+Stairs,,-33.83067679,151.0872367,Train,Rhodes,Blaxland,Road
+Stairs,,-33.83064015,151.0868216,Train,Rhodes,Walker,Street
+Stairs,,-33.59877109,150.7523098,Train,Richmond,E Market,Street
+Stairs,,-33.95160087,151.0525497,Train,Riverwood,Belmore,Road
+Stairs,,-33.952442245,151.1369156,Train,Rockdale,Geeves,Lane
+Stairs,,-33.95221004,151.1362805,Train,Rockdale,Railway,Street
+Stairs,,-33.77188219,150.8444618,Train,Rooty Hill,Beames,Avenue
+Stairs,,-33.7714864,150.8442846,Train,Rooty Hill,North,Pedestrain
+Stairs,,-33.823129225,151.02222065,Train,Rosehill,James Ruse,Drive
+Stairs,,-33.8717488,151.1728699,Train,Rozelle Bay Lr,The Crescent,Others
+Stairs,,-32.87279417,151.7028016,Train,Sandgate,Astra,Street
+Stairs,,-34.265597225,150.9653453,Train,Scarborough,Railway,Avenue
+Stairs,,-33.7043178,150.8735269,Train,Schofields,Bridge,Street
+Stairs,,-33.70418713,150.8739328,Train,Schofields,Railway,Terrace
+Stairs,,-33.88516069,151.0116714,Train,Sefton,Helen,Street
+Stairs,,-33.88543207,151.0116221,Train,Sefton,Wellington,Road
+Stairs,,-33.77410577,150.9361911,Train,Seven Hills,Prospect,Highway
+Stairs,,-34.59129729,150.84472685,Train,Shellharbour,Piper,Drive
+Stairs,,-33.69918984,150.5636973,Train,Springwood,Macquarie,Road
+Stairs,,-33.87074951,151.2104486,Train,St James,Elizabeth,Street
+Stairs,,-33.86992775,151.2114985,Train,St James,James,Road
+Stairs,,-33.822389529999995,151.1935205,Train,St Leonards,Herbert,Street
+Stairs,,-33.82224634,151.1947629,Train,St Leonards,Sergeants,Lane
+Stairs,,-33.76188001,150.7749259,Train,St Marys,Forrester,Road
+Stairs,,-33.76231824,150.774872,Train,St Marys,Station,Street
+Stairs,,-34.226163764999995,150.9811195,Train,Stanwell Park,Railway,Crescent
+Stairs,,-33.87134403,151.0944811,Train,Strathfield,Everton,Road
+Stairs,,-33.89044157,151.1386413,Train,Summer Hill,Carlton,Crescent
+Stairs,,-33.8901592,151.1389449,Train,Summer Hill,Grosvenor,Crescent
+Stairs,,-34.03183438,151.0569098,Train,Sutherland,East,Pedestrain
+Stairs,,-32.808858040000004,151.6694182,Train,Tarro,Woodberry,Road
+Stairs,,-33.45088295,151.318787,Train,Tascott,Brisbane Water,Drive
+Stairs,,-33.45094989,151.3183448,Train,Tascott,Glenrock,Pedestrain
+Stairs,,-33.889749585000004,151.1450784,Train,Taverners Hill Lr,Parramatta,Road
+Stairs,,-32.72337822,151.5398859,Train,Telarah,Johnson,Street
+Stairs,,-33.79411509,151.0411954,Train,Telopea,Adderton,Road
+Stairs,,-33.923819609999995,151.1567741,Train,Tempe,Griffith,Street
+Stairs,,-33.923738305,151.1564346,Train,Tempe,Richardson,Crescent
+Stairs,,-32.96216248,151.6036419,Train,Teralba,Railway,Street
+Stairs,,-34.31795869,150.9188517,Train,Thirroul,Railway,Pedestrain
+Stairs,,-34.31786015,150.9193757,Train,Thirroul,Station,Street
+Stairs,,-33.73211866,151.0783327,Train,Thornleigh,Railway,Pedestrain
+Stairs,,-33.73180916,151.0781183,Train,Thornleigh,The Esplanade,Others
+Stairs,,-32.78357334,151.6399935,Train,Thornton,Karuah,Street
+Stairs,25,-33.87354467285714,151.2068428285714,Train,Town Hall,George,Street
+Stairs,,-33.3077456,151.4204201,Train,Tuggerah,Bryant,Drive
+Stairs,,-33.30767799,151.4200382,Train,Tuggerah,Pacific,Highway
+Stairs,,-33.92977422,151.1404283,Train,Turrella,Reede,Street
+Stairs,,-34.45496584,150.8457894,Train,Unanderra,Berkeley,Road
+Stairs,,-33.704015615,150.58388495,Train,Valley Heights,Great Western,Highway
+Stairs,,-32.7511242,151.5937962,Train,Victoria Street,Victoria,Street
+Stairs,,-32.75096544,151.5941378,Train,Victoria Street,Waller,Street
+Stairs,,-33.88074082,150.9773471,Train,Villawood,River,Avenue
+Stairs,,-33.88092102,150.9773626,Train,Villawood,Villawood,Street
+Stairs,,-33.71800187,151.1175185,Train,Wahroonga,Redleaf,Avenue
+Stairs,,-33.71065655,151.1049153,Train,Waitara,Waitara,Avenue
+Stairs,,-32.902228585,151.7311194,Train,Waratah,Platt,Street
+Stairs,,-33.721816540000006,150.60267365,Train,Warrimoo,Great Western,Highway
+Stairs,,-33.72132609,150.6029511,Train,Warrimoo,Railway,Pedestrain
+Stairs,,-33.91347354,150.9349611,Train,Warwick Farm,Remembrance,Avenue
+Stairs,,-33.91318088,150.9353246,Train,Warwick Farm,Warwick,Street
+Stairs,,-33.70932977,150.3764898,Train,Wentworth Falls,Railway,Pedestrain
+Stairs,,-33.70952535,150.3761198,Train,Wentworth Falls,Station,Street
+Stairs,,-33.80725292,150.972304,Train,Wentworthville,The Kingsway,Others
+Stairs,,-33.80686889,150.9725242,Train,Wentworthville,Wentworth,Avenue
+Stairs,,-33.75924963,150.7575314,Train,Werrington,Railway,Street
+Stairs,,-33.7590496,150.7575668,Train,Werrington,Victoria,Lane
+Stairs,,-33.80746637,151.0905793,Train,West Ryde,Railway,Pedestrain
+Stairs,,-33.8074677,151.0899608,Train,West Ryde,West,Pedestrain
+Stairs,,-33.80870858,150.9878707,Train,Westmead,Alexandria,Avenue
+Stairs,,-33.80836116,150.9881873,Train,Westmead,Railway,Pedestrain
+Stairs,,-33.92867126,151.1544432,Train,Wolli,Brodie Spark,Drive
+Stairs,,-33.92882963,151.153842,Train,Wolli,Discovery Point,Place
+Stairs,,-34.42673344,150.8885596,Train,Wollongong,Station,Street
+Stairs,,-34.27537866,150.9535918,Train,Wombarra,Morrison,Avenue
+Stairs,,-33.7357511,150.4821963,Train,Woodford,Railway,Pedestrain
+Stairs,,-34.04769831,151.1436487,Train,Woolooware,Swan,Street
+Stairs,,-34.04741225,151.1437622,Train,Woolooware,Swan,Street N
+Stairs,,-34.34956158,150.91536,Train,Woonona,Railway,Pedestrain
+Stairs,,-33.48597825,151.3232156,Train,Woy Woy,Railway,Street
+Stairs,,-33.180164,151.4868566,Train,Wyee,Gorokan,Road
+Stairs,2,-33.8656865,151.20629835,Train,Wynyard,Carrington,Street
+Stairs,4,-33.86562889,151.2048,Train,Wynyard,Clarence,Street
+Stairs,6,-33.865709679999995,151.20596795,Train,Wynyard,York,Street
+Stairs,,-33.28508373,151.4255992,Train,Wyong,Howarth,Street
+Stairs,,-33.2853225,151.4251587,Train,Wyong,Pacific,Highway
+Stairs,,-33.86462082,150.9709456,Train,Yennora,Nelson,Road
+Stairs,,-33.86493559,150.9709242,Train,Yennora,Railway,Street
+Stairs,,-33.47184198,150.2021194,Train,Zig Zag,Bells,Road
