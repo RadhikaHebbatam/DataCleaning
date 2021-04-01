@@ -9,4 +9,9 @@ Steps Followed
 4)Generated start schema in powerbi by connecting dataware house database
   created in step 3.Uploaded start schema image in google drive
 
-
+https://user-images.githubusercontent.com/69447775/113229484-95a10c80-92f3-11eb-9fd0-767bdb68f751.png
+https://user-images.githubusercontent.com/69447775/113229487-96d23980-92f3-11eb-82af-80cb970c2b86.png
+https://user-images.githubusercontent.com/69447775/113229494-989bfd00-92f3-11eb-9282-21f2d3e4e676.png
+https://user-images.githubusercontent.com/69447775/113229501-99cd2a00-92f3-11eb-85a9-6fb14ab0e9c7.png
+https://user-images.githubusercontent.com/69447775/113229505-9b96ed80-92f3-11eb-8bd2-49d4376d6391.png
+https://user-images.githubusercontent.com/69447775/113229516-9f2a7480-92f3-11eb-8848-e8591fa5b3d4.png
